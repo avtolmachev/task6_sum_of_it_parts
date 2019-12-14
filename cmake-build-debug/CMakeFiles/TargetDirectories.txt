@@ -1,0 +1,3 @@
+C:/algosy2/task6_sum_of_it_parts/cmake-build-debug/CMakeFiles/HW6.dir
+C:/algosy2/task6_sum_of_it_parts/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/algosy2/task6_sum_of_it_parts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
