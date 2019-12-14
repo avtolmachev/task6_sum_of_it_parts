@@ -17,6 +17,8 @@ public:
     Part(string const &n) : name(n) {};
     void describe(void);
     int count_howmany(Part const *p);
+    Part* parent;
+    std::map<Part*,int> subparts;
 };
 
 //**************** NameContainer ****************
